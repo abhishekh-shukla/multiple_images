@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  padding: 20px; 
+}
+
+.container_one,
+.container_two,
+.container_three {
+  padding: 10px;
+}
